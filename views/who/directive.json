@@ -1,0 +1,9 @@
+{
+  "span": "who",
+  "input@value": "buttonText",
+  "li": {
+    "animal<-animals": {
+      "span": "animal.name"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "who": "Spongebob Squarepants",
+  "buttonText": "Click Here",
+  "animals": [
+    { "name": "mouse" },
+    { "name": "cat" },
+    { "name": "bird" },
+    { "name": "dog" }
+  ]
+}
